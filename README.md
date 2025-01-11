@@ -1,4 +1,5 @@
-# Store-Wiki-Page-in-Vector-Database
+Project Description: Wikipedia Content Storage Using Embedding Techniques
+This project focuses on efficiently storing Wikipedia page content in a vector database using advanced embedding techniques. The objective is to enable quick and accurate retrieval of semantic information from Wikipedia articles, supporting tasks such as search, recommendation, and knowledge discovery.
 
 Steps to follow - 
 1. Create a virtual environment - python3 -m venv virtual-env-name
